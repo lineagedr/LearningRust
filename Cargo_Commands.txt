@@ -1,0 +1,7 @@
+# Cargo commands
+
+cargo new             = Creates a new project
+cargo clean           = Cleans the project
+cargo build           = Builds the project
+cargo build -- relase = Builds for release with optimizations
+cargo check 	      = Checks if the project can be compiled - This is usually faster than running cargo build
